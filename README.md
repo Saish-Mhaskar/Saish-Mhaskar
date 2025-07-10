@@ -19,7 +19,7 @@
 💡 Currently exploring:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![DSA](https://img.shields.io/badge/-DSA-in--C-yellow)
+![DSA in C](https://img.shields.io/badge/DSA-in%20C-blueviolet?style=flat&logo=c&logoColor=white)
 
 ---
 
