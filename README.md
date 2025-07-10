@@ -1,20 +1,16 @@
 # 👋 Hi, I'm Saish Mhaskar
 
-🎓 2nd year BTech student in Electronics & Computer Science  
-💻 Passionate about web development, problem solving & building real-world projects  
-🚀 Currently learning full-stack development and DSA in C/C++
+🎓 2nd-year BTech student in Electronics & Computer Science  
+💻 Passionate about web development, problem solving & coding challenges  
+🚀 Currently learning full-stack development, JavaScript backend, and DSA in C/C++
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+`HTML5` · `CSS3` · `JavaScript (ES6)` · `jQuery`  
+`C Programming` · `Git & GitHub`  
+💡 Currently exploring `Node.js`, `Express`, `DSA in C`
 
 ---
 
@@ -22,9 +18,10 @@
 
 | Project | Live Demo | Description |
 |--------|-----------|-------------|
-| 🎮 **Simon Game** | [Play Now](https://saish-mhaskar.github.io/Simon-Game/) | Classic memory game with sound and animations |
-| 🥁 **Drum Kit** | [Play Now](https://saish-mhaskar.github.io/Drum-Kit/) | Interactive drum sounds triggered by keys/clicks |
-| 🎲 **Dice Game** | [Play Now](https://saish-mhaskar.github.io/Dice/) | 2-player dice roll with auto winner detection |
+| 🎮 **Simon Game** | [Play](https://saish-mhaskar.github.io/Simon-Game/) | Memory challenge with sounds & animations |
+| 🥁 **Drum Kit** | [Play](https://saish-mhaskar.github.io/Drum-Kit/) | Play drum sounds using keys or clicks |
+| 🎲 **Dice Game** | [Play](https://saish-mhaskar.github.io/Dice/) | Two-player dice roll with win logic |
+| 📂 **HTML/CSS Practice** | [Explore](https://saish-mhaskar.github.io/Early-HTML-CSS-Work/) | A collection of starter projects with live previews |
 
 ---
 
@@ -39,7 +36,9 @@
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Saish-Mhaskar)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Saish-Mhaskar)  
+[LinkedIn](https://www.linkedin.com/in/saish-mhaskar-847a84339/) 
+✉️ saishdmhaskar@gmail.com
 
 ---
 
