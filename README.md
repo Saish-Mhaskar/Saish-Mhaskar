@@ -30,7 +30,9 @@
 | 🎮 Simon Game | [Play](https://saish-mhaskar.github.io/Simon-Game/) | Memory challenge with sounds & animations |
 | 🥁 Drum Kit | [Play](https://saish-mhaskar.github.io/Drum-Kit/) | Play drum sounds using keys or clicks |
 | 🎲 Dice Game | [Play](https://saish-mhaskar.github.io/Dice/) | Two-player dice roll with win logic |
+| 🧑‍💻 Portfolio Website | [View](https://saish-mhaskar.github.io/) | Personal portfolio showcasing projects and skills |
 | 🗂️ Early HTML/CSS Projects | [Explore](https://saish-mhaskar.github.io/Early-HTML-CSS-Work/) | A collection of beginner projects with live previews |
+
 
 ---
 
