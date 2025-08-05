@@ -2,7 +2,7 @@
 
 🎓 2nd-year BTech student in Electronics & Computer Science  
 💻 Passionate about web development, problem solving & creative coding  
-🚀 Currently learning full-stack JavaScript, Node.js backend, and DSA in C/C++
+🚀 Currently learning full-stack JavaScript, Node.js backend, Java programming, and DSA in C/C++
 
 ---
 
@@ -19,6 +19,7 @@
 💡 Currently exploring:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![DSA in C](https://img.shields.io/badge/DSA-in%20C-blueviolet?style=flat&logo=c&logoColor=white)
 
 ---
