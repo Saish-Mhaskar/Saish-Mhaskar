@@ -28,6 +28,8 @@
 
 | Project | Live Demo | Description |
 |--------|-----------|-------------|
+| 🚀 Onestop Career Counciling Platform(SIH) | [View Live](https://sih-final-iota.vercel.app/) | A single platform for all the students to get clarity with personalised recommendations and visual roadmaps |
+| 🏔️ Summit Scape | [Explore](https://pixel-hackathon-smoky.vercel.app/) | An interactive and visually engaging guide to the world's mountains, built for a hackathon. |
 | 🎮 Simon Game | [Play](https://saish-mhaskar.github.io/Simon-Game/) | Memory challenge with sounds & animations |
 | 🥁 Drum Kit | [Play](https://saish-mhaskar.github.io/Drum-Kit/) | Play drum sounds using keys or clicks |
 | 🎲 Dice Game | [Play](https://saish-mhaskar.github.io/Dice/) | Two-player dice roll with win logic |
