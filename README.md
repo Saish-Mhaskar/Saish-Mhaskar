@@ -1,42 +1,89 @@
 # 👋 Hi, I'm Saish Mhaskar
-🎓 2nd-year BTech student in Electronics & Computer Science
-💻 Passionate about web development, problem solving & creative coding
-🚀 Currently learning full-stack JavaScript, Node.js backend, Java programming, and DSA in C/C++
+
+🎓 Final Year B.E. Electronics & Computer Science Student at VESIT, Mumbai
+
+💻 Software Engineering enthusiast with a strong curiosity for understanding how software works beyond the surface. I enjoy building practical solutions, participating in hackathons, and continuously exploring new technologies.
+
+🤖 Currently transitioning into Artificial Intelligence & Machine Learning while strengthening my software engineering fundamentals.
 
 ---
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+## 🚀 Tech Stack
 
-💡 Currently exploring: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![DSA in C](https://img.shields.io/badge/DSA-in%20C-blueviolet?style=flat&logo=c&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### AI / Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Live Demo | Description |
-|--------|-----------|-------------|
-| 🌍 WanderLens | [View Live](https://wanderlens-api-project.onrender.com) | A full-stack travel dashboard that aggregates real-time weather, finance, and geographic data for 250+ countries. |
-| 🚀 Onestop Career Counciling Platform(SIH) | [View Live](https://sih-final-iota.vercel.app/) | A single platform for all the students to get clarity with personalised recommendations and visual roadmaps |
-| 🏔️ Summit Scape | [Explore](https://pixel-hackathon-smoky.vercel.app/) | An interactive and visually engaging guide to the world's mountains, built for a hackathon. |
-| 🎮 Simon Game | [Play](https://saish-mhaskar.github.io/Simon-Game/) | Memory challenge with sounds & animations |
-| 🥁 Drum Kit | [Play](https://saish-mhaskar.github.io/Drum-Kit/) | Play drum sounds using keys or clicks |
-| 🎲 Dice Game | [Play](https://saish-mhaskar.github.io/Dice/) | Two-player dice roll with win logic |
-| 🧑‍💻 Portfolio Website | [View](https://saish-mhaskar.github.io/Portfolio/) | Personal portfolio showcasing projects and skills |
-| 🗂️ Early HTML/CSS Projects | [Explore](https://saish-mhaskar.github.io/Early-HTML-CSS-Work/) | A collection of beginner projects with live previews |
+### 🐾 PawTrace AI
+AI-powered stray dog identification system using ResNet and FastAPI for intelligent identification and digital record management.
+
+### 💳 Credence
+AI-powered fintech verification platform integrating Gemini Vision, blockchain-backed records, and multi-role verification workflows.
+
+### 🚀 SpaceScope
+Interactive space exploration platform with real-time API integrations, responsive UI, and immersive visualizations.
+
+---
+
+## 🏆 Highlights
+
+- 💼 Junior Software Developer — ISA VESIT
+- 🎤 Speaker — Building Real-Time Web Systems Using WebSockets
+- 🛠 Software Technical Coordinator — ISA VESIT
+- 🏅 Multiple Hackathon Semifinalist
+
+---
+
+## 📈 Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- Scikit-learn
+- Deep Learning
+- System Design
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saish-Mhaskar&show_icons=true&theme=github_dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saish-Mhaskar&layout=compact&theme=github_dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saish-Mhaskar&show_icons=true&theme=github_dark" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saish-Mhaskar&layout=compact&theme=github_dark" width="330"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Saish-Mhaskar) [LinkedIn](https://www.linkedin.com/in/saish-mhaskar-847a84339/) ✉️ saishdmhaskar@gmail.com
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/saish-mhaskar-847a84339/
+- 📧 Email: saishdmhaskar@gmail.com
 
 ---
-> *“Always learning. Always building.”*
+
+> **"Building software with curiosity, learning continuously, and solving real-world problems."**
