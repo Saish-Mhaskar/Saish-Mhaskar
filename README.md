@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saish Mhaskar
 
-🎓 Final Year B.E. Electronics & Computer Science Student at VESIT, Mumbai
+🎓 Third Year T.E. Electronics & Computer Science Student at VESIT, Mumbai
 
 💻 Software Engineering enthusiast with a strong curiosity for understanding how software works beyond the surface. I enjoy building practical solutions, participating in hackathons, and continuously exploring new technologies.
 
